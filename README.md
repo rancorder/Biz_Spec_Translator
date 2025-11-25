@@ -617,8 +617,7 @@ MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照
 
 - **GitHub**: [@rancorder](https://github.com/rancorder)
 - **Portfolio**: [rancorder.dev](https://aistudio.netlify.app/portfolio_engineer.html)
-- **X (Twitter)**: [@rancorder](https://x.com/rancorder)
-- **Email**: Contact via GitHub
+- - **Email**: xzengbu@gmail.com
 
 ---
 
